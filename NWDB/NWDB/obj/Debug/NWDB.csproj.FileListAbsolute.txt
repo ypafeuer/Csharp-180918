@@ -1,0 +1,6 @@
+C:\Users\study\Documents\MyVS\NWDB\NWDB\bin\Debug\NWDB.dll
+C:\Users\study\Documents\MyVS\NWDB\NWDB\bin\Debug\NWDB.pdb
+C:\Users\study\Documents\MyVS\NWDB\NWDB\obj\Debug\NWDB.csprojResolveAssemblyReference.cache
+C:\Users\study\Documents\MyVS\NWDB\NWDB\obj\Debug\NWDB.csproj.CoreCompileInputs.cache
+C:\Users\study\Documents\MyVS\NWDB\NWDB\obj\Debug\NWDB.dll
+C:\Users\study\Documents\MyVS\NWDB\NWDB\obj\Debug\NWDB.pdb
